@@ -1,0 +1,2 @@
+a <- sys.time()
+write.csv(a, paste0('D:\\doc\\Amazon Work\\Jenkins\\Testing\\', a, '.csv'))
